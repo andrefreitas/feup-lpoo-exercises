@@ -1,4 +1,4 @@
 === README ===
-	Repository for LPOO exercices.
+	Repository for LPOO exercises.
 === AUTHOR ===
 	André Freitas - p.andrefreitas@gmail.com
